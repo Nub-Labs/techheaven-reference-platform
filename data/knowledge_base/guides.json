@@ -1,0 +1,16 @@
+[
+  {
+    "id": 14,
+    "slug": "laptop-buying-guide",
+    "title": "Laptop Buying Guide 2025",
+    "content": "Laptop Buying Guide 2025\n\nBuying a laptop is a significant investment. This guide will help you understand the key specifications and choose the right machine for your needs and budget.\n\nProcessor (CPU)\n\nIntel vs AMD: Both are excellent in 2025. Intel's Core Ultra 100 series leads in single-threaded gaming performance. AMD's Ryzen 7000 series offers competitive multithreaded performance, often with better battery efficiency.\nApple Silicon: For MacBook buyers, M3 and M4 chips deliver industry-leading performance-per-watt. The M4 Pro is the choice for professional creative workloads.\n\nMemory (RAM)\n\n- 8GB: Minimum for basic tasks — web browsing, document editing, video streaming\n- 16GB: Recommended for most users — comfortable multitasking, light creative work\n- 32GB+: Power users, video editors, 3D artists, developers running multiple VMs\n\nStorage\n\nAlways choose SSD over HDD. 256GB is the absolute minimum — 512GB or 1TB is strongly recommended to avoid running out of space within a year of purchase.\n\nDisplay\n\n- Resolution: 1080p minimum, 1440p or 4K for creative work\n- Panel type: IPS for colour accuracy, OLED for contrast and colour vibrancy\n- Refresh rate: 60Hz for office use, 120Hz or higher for gaming and smooth scrolling\n\nBattery Life\n\nClaims vary wildly. Real-world battery life for mainstream laptops: MacBook Air (12–15 hours), Windows ultrabooks (7–12 hours), gaming laptops (2–5 hours on battery).",
+    "category": "buying-guide"
+  },
+  {
+    "id": 15,
+    "slug": "monitor-buying-guide",
+    "title": "Monitor Buying Guide 2025",
+    "content": "Monitor Buying Guide 2025\n\nResolution\n\n- 1080p (FHD): Budget gaming and basic office use. Acceptable on 24\" or smaller.\n- 1440p (QHD): The sweet spot. Sharp enough to see detail, high refresh rates achievable.\n- 4K (UHD): Best for 27\"+ displays, professional photo/video work, and productivity.\n\nPanel Technology\n\n- IPS: Wide viewing angles, accurate colours. Best all-rounder for most users.\n- VA: Higher native contrast (3000:1 vs 1000:1 for IPS). Better for dark rooms.\n- OLED: Infinite contrast, fastest response time. Best for gaming and colour work. Burn-in risk for static content.\n- Mini LED: Thousands of dimming zones for near-OLED HDR without burn-in risk.\n\nRefresh Rate\n\n- 60Hz: Office, web browsing, document work. Completely fine for non-gaming use.\n- 144–165Hz: Ideal gaming range. Significantly smoother than 60Hz.\n- 240–360Hz: Competitive gaming. Requires a high-end GPU to push enough frames.\n\nUSB-C Connectivity\n\nA monitor with USB-C (65W+ Power Delivery) can replace your laptop charger and act as a docking station — one cable connects your MacBook or Windows ultrabook for video, data, and power simultaneously.",
+    "category": "buying-guide"
+  }
+]

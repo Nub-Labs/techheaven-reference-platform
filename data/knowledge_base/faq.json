@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Orders & Shipping",
+    "question": "When will my order ship?",
+    "answer": "Orders placed before 2:00 PM EST on business days typically ship the same day. You'll receive a tracking number by email as soon as your order ships."
+  },
+  {
+    "category": "Orders & Shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes — free standard shipping on all orders over $49 within the contiguous US."
+  },
+  {
+    "category": "Orders & Shipping",
+    "question": "Can I change or cancel my order after placing it?",
+    "answer": "Orders can be modified or cancelled within 1 hour of placement. After that, the order has usually entered processing. Contact support immediately via live chat for urgent changes."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "How long do I have to return an item?",
+    "answer": "30 days from the date of delivery for most items in original condition. See our full Return Policy for exclusions."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Who pays for return shipping?",
+    "answer": "TechHeaven provides a prepaid return label for defective or incorrectly sent items. For change-of-mind returns, a $6.99 return shipping fee is deducted from your refund."
+  },
+  {
+    "category": "Products & Compatibility",
+    "question": "How do I know which RAM is compatible with my laptop?",
+    "answer": "Use our Compatibility Tool (available on each RAM product page) and enter your laptop model number. Alternatively, contact our tech support team via live chat and we'll confirm compatibility before you order."
+  },
+  {
+    "category": "Products & Compatibility",
+    "question": "Do products come with US plugs?",
+    "answer": "All products ship with US plugs. International customers may need a plug adapter depending on their country."
+  },
+  {
+    "category": "Account & Payment",
+    "question": "How do I track my order?",
+    "answer": "Log into your account, go to Orders, and click the tracking number in your order details. You can also use the tracking link in your shipping confirmation email."
+  }
+]
